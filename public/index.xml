@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noozama</title>
+    <link>file:///C:/Users/Britt/OneDrive/Documents/School/Winter%202020/Noozama/public/</link>
+    <description>Recent content on Noozama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Apr 2020 14:41:07 -0500</lastBuildDate>
+    
+	<atom:link href="file:///C:/Users/Britt/OneDrive/Documents/School/Winter%202020/Noozama/public/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>file:///C:/Users/Britt/OneDrive/Documents/School/Winter%202020/Noozama/public/about/</link>
+      <pubDate>Thu, 02 Apr 2020 14:41:07 -0500</pubDate>
+      
+      <guid>file:///C:/Users/Britt/OneDrive/Documents/School/Winter%202020/Noozama/public/about/</guid>
+      <description>This is is the about section. Add an overview of the app like we did for the first read me.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>file:///C:/Users/Britt/OneDrive/Documents/School/Winter%202020/Noozama/public/features/</link>
+      <pubDate>Thu, 02 Apr 2020 14:41:07 -0500</pubDate>
+      
+      <guid>file:///C:/Users/Britt/OneDrive/Documents/School/Winter%202020/Noozama/public/features/</guid>
+      <description>So you want to hear about a shopping cart?</description>
+    </item>
+    
+    <item>
+      <title>Our Team</title>
+      <link>file:///C:/Users/Britt/OneDrive/Documents/School/Winter%202020/Noozama/public/ourteam/</link>
+      <pubDate>Thu, 02 Apr 2020 14:41:07 -0500</pubDate>
+      
+      <guid>file:///C:/Users/Britt/OneDrive/Documents/School/Winter%202020/Noozama/public/ourteam/</guid>
+      <description>Time to discuss what we learned. Yay</description>
+    </item>
+    
+    <item>
+      <title>Retrospective</title>
+      <link>file:///C:/Users/Britt/OneDrive/Documents/School/Winter%202020/Noozama/public/retrospective/</link>
+      <pubDate>Thu, 02 Apr 2020 14:41:07 -0500</pubDate>
+      
+      <guid>file:///C:/Users/Britt/OneDrive/Documents/School/Winter%202020/Noozama/public/retrospective/</guid>
+      <description>Time to discuss all of our failures</description>
+    </item>
+    
+  </channel>
+</rss>

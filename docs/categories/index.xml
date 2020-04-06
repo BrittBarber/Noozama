@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Noozama</title>
-    <link>file:///C:/Users/Britt/OneDrive/Documents/School/Winter%202020/Noozama/public/categories/</link>
+    <link>https://brittbarber.github.io/Noozama//categories/</link>
     <description>Recent content in Categories on Noozama</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="file:///C:/Users/Britt/OneDrive/Documents/School/Winter%202020/Noozama/public/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="fhttps://brittbarber.github.io/Noozama//categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
